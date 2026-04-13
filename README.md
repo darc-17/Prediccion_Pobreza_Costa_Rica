@@ -95,7 +95,7 @@ Análisis de importancia global de variables + explicación individual hogar por
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<usuario>/Prediccion_Pobreza_Costa_Rica.git
+git clone https://github.com/darc-17/Prediccion_Pobreza_Costa_Rica.git
 cd Prediccion_Pobreza_Costa_Rica
 
 # 2. Instalar dependencias
