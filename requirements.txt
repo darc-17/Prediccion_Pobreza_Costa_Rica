@@ -4,7 +4,5 @@ matplotlib==3.10.8
 seaborn==0.13.2
 scikit-learn==1.4.2
 statsmodels>=0.14.0
-scipy
 xgboost
-shap
 ipykernel==6.29.4
