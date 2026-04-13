@@ -88,21 +88,3 @@ Análisis de importancia global de variables + explicación individual hogar por
 ├── Enunciado.pdf                   # Especificaciones del proyecto
 └── requirements.txt
 ```
-
----
-
-## Cómo ejecutar el proyecto
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/darc-17/Prediccion_Pobreza_Costa_Rica.git
-cd Prediccion_Pobreza_Costa_Rica
-
-# 2. Instalar dependencias
-pip install -r requirements.txt
-
-# 3. Ejecutar el notebook
-jupyter notebook Punto1_Clasificacion.ipynb
-```
-
-> Los datos originales deben descargarse desde [Kaggle](https://www.kaggle.com/c/costa-rican-household-poverty-prediction/data) y colocarse en `Datos/train.csv`.
