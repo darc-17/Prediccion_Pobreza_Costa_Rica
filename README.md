@@ -6,7 +6,7 @@
 
 # Predicción de Pobreza en Costa Rica — Consultoría BID (2025)
 
-Proyecto de clasificación binaria desarrollado para el **Banco Interamericano de Desarrollo (BID)** con el objetivo de mejorar el sistema de focalización de subsidios sociales en Costa Rica, reemplazando el *Proxy Means Test* (PMT) vigente. Autores: David Rodríguez y Juan Rueda.
+Proyecto de clasificación binaria desarrollado con datos del **Banco Interamericano de Desarrollo (BID)** con el objetivo de mejorar el sistema de focalización de subsidios sociales en Costa Rica, reemplazando el *Proxy Means Test* (PMT) vigente. Autores: David Rodríguez y Juan Rueda.
 
 ---
 
